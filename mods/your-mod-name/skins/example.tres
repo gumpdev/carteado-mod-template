@@ -1,0 +1,25 @@
+[gd_resource type="Resource" script_class="PlayerSkin" load_steps=4 format=3 uid="uid://cijad6e1rn2r6"]
+
+[ext_resource type="Texture2D" uid="uid://d11ov2rsexr7s" path="res://mods/your-mod-name/skins/example-icon.png" id="1_dsb6n"]
+[ext_resource type="Script" uid="uid://dlbrexwkmrujc" path="res://scripts/resources/PlayerSkin.gd" id="1_xbar3"]
+[ext_resource type="Texture2D" uid="uid://dmhvtr0ljr6hn" path="res://mods/your-mod-name/skins/example-skin.png" id="3_4dji4"]
+
+[resource]
+script = ExtResource("1_xbar3")
+id = "example"
+icon = ExtResource("1_dsb6n")
+texture = ExtResource("3_4dji4")
+texture_size = Vector2(16, 16)
+offset = Vector2(-1, -1)
+unlock = ""
+time_to_idle = 0.0
+name_translation = Dictionary[String, String]({
+"en": "example name"
+})
+unlock_translation = Dictionary[String, String]({
+"en": "example unlock"
+})
+description_translation = Dictionary[String, String]({
+"en": "example description"
+})
+metadata/_custom_type_script = "uid://dlbrexwkmrujc"
