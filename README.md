@@ -2,7 +2,7 @@
 
 Carteado Mod Template is a Godot Project to you create a mod for the [Carteado Game](https://store.steampowered.com/app/3863510/)
 
-**Warning: Need to be builded on Godot 4.4**
+**Warning: Need to be builded on Godot 4.6**
 
 ## Table of contents
 
