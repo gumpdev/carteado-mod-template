@@ -2,7 +2,7 @@
 
 Carteado Mod Template is a Godot Project to you create a mod for the [Carteado Game](https://store.steampowered.com/app/3863510/)
 
-**Warning: Need to be builded on Godot 4.6**
+**Warning: Need to be builded on Godot 4.6.1**
 
 ## Table of contents
 
@@ -35,7 +35,7 @@ Some guide of how to add some features to the mod
 
 To export the mod you need to go to `Project > Export...`, then select `Export mod` and click on `Export PCK/Zip...` *Preferable exports in .pck*
 
-**Warning: Need to be builded on Godot 4.4**
+**Warning: Need to be builded on Godot 4.6.1**
 **Warning: The mod file name needs to be your mod name, the same as the folder in `res://mods/your-mod-name/`**
 
 ## Testing
